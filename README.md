@@ -1,13 +1,13 @@
 # EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:** 29.07.26
+**DATE: 29/07/2026**
 
-**NAME:** ABIRAMI A
+**NAME: ABIRAMI.A**
 
-**ROLL NO:** 212224040010
+**ROLL NO: 212224040010**
 
-**DEPARTMENT:** CSE
+**DEPARTMENT: B.E CSE**
 
 ## Aim
 
@@ -257,14 +257,19 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 #endif
 
-
 ```
 
 ## OUTPUT
+<img width="1917" height="1033" alt="image" src="https://github.com/user-attachments/assets/01053f31-d543-4349-b211-a25adf158875" />
 
-<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/83802880-a7c6-4469-a4fc-d7a01bd82c6d" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-07-29 at 10 58 40 AM (1)" src="https://github.com/user-attachments/assets/9280211f-7a92-47c4-a0a6-f1707916bf51" />
 
-<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/c1466e76-d63a-4e79-ac7b-b6ef8348306e" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/98b4a66d-8f67-4768-b1bf-648455d14739" />
+
+<img width="960" height="1280" alt="WhatsApp Image 2026-07-29 at 10 58 39 AM" src="https://github.com/user-attachments/assets/0e94dff3-72e6-4048-960d-944370b0c6ae" />
+
+<img width="960" height="1280" alt="WhatsApp Image 2026-07-29 at 10 58 40 AM" src="https://github.com/user-attachments/assets/794e3e44-ffe4-4688-9736-cbd04c7fe82f" />
+
 
 
 ## Result
